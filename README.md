@@ -12,22 +12,21 @@
 
 ## General Information
 - Lending Club is a marketplace for personal loans that matches borrowers with lenders who is seeking for loan.
-- Business problem is identify which loan application will have the possibility to be defaulted for the loan.
+- Business problem is identify which loan application will have the possibility for defaulting to loan.
 - 'loan.csv' dataset is used to analyse this scenario.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Loans processed by the Bank is linearly increased from 2007 to till 2011.
-- More number of loans are applied for Short terms (3 year) rather than 5 year term.
-- The applicants who got high loan amount and high interest rate, there is high number of applicants are charged off and   in this case loan applicant will default of loan.
-- The loan application whose loan term of 36 months is charged off than 60 months term.
+- More number of loans are applied for short tenture (3 year) than 5 year.
 - In December high number of loan application is processed and June is the lowest.
-- When the loan applicant has higher Debit to Income (DTI), they apply for high loan amount. In this scenario the loan applicant will be more default of loan.
+- The applicants who got high loan amount and high interest rate, there is high number of applicants are charged off. In this scenario, the new loan applicant applies for similar criteria has possibility for defaulting of loan.
+- The loan application whose loan term of 36 months is more charged off than 60 months term. So the loan application applies for short term needs to check effectively.
+- When the application has higher Debit to Income (DTI) and apply for high loan amount, such new loan application has more change for defaulting the loan.
 - Applicant who has less than a year employed apply for high loan amount. So the loan application can scrutinise or reject the application.
 - The applicants who apply loan for "small business, credit card, major purchase, renewable energy" purpose has high charged off. So for new application who apply on this purpose has high chance of defaulting to loan.
-- The loan applicants from these state WA, WI, OK, KS, RI has high number of charged off and new application can be scrutinised for this scenario.
- - Around 14% applicants have charged off and possibility to default for loan and 86% of loan application is paid fully. So the suspected new application needs more scrutinisation rather to reject.
+- Around 14% applicants have charged off and possibility to default for loan and 86% of loan application is paid fully. So the suspected new application needs more scrutinisation rather to reject.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
