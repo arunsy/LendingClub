@@ -46,7 +46,7 @@
 
 
 ## Contact
-Created by [@arunkumarang](https://github.com/arunkumarang) - feel free to contact me!
+Created by [@arung0](https://github.com/arung0) - feel free to contact me!
 
 
 <!-- Optional -->
