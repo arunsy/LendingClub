@@ -41,7 +41,6 @@
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by LendingClub
 - This project was based on [similar tutorial](https://drive.google.com/drive/folders/1vRruQCzrtOS_iZrDtA74DWMadpmBAA9B).
 
