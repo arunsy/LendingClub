@@ -1,5 +1,5 @@
-# Lending Club Case Study
-> Analyse the data using Exploratory Analysis and decide whether the applicant is eligible for the loan.
+# Lending Club - Online Personal Loan
+> Analyse the data using Exploratory Data Analysis and decide whether the applicant is eligible for the loan.
 
 
 ## Table of Contents
@@ -41,8 +41,10 @@
 
 
 ## Acknowledgements
-- This project was inspired by LendingClub
+- This project was inspired by Lending Club Service. 
+<!--- 
 - This project was based on [similar tutorial](https://drive.google.com/drive/folders/1vRruQCzrtOS_iZrDtA74DWMadpmBAA9B).
+--->
 
 
 ## Contact
