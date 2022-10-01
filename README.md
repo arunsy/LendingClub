@@ -41,14 +41,11 @@
 
 
 ## Acknowledgements
-- This project was inspired by Lending Club Service. 
-<!--- 
-- This project was based on [similar tutorial](https://drive.google.com/drive/folders/1vRruQCzrtOS_iZrDtA74DWMadpmBAA9B).
---->
+- This project is inspired by Lending Club Service. 
 
+<br>
 
-## Contact
-Created by [@arung0](https://github.com/arung0) - feel free to contact me!
+> Documented by [@arunsy](http://github.com/arunsy) - feel free to contact me!
 
 
 <!-- Optional -->
